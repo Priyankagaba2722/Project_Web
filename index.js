@@ -29,7 +29,7 @@ const profile = require('./routes/api/person')
 const auth = require('./routes/api/auth')
 
 app.get('/', (req, res) => {
-    res.send('Week 10 code goes from here')
+    res.send('Project code goes from here')
 })
 
 // mapping the imported routes
